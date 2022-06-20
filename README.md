@@ -1,5 +1,7 @@
 ### Hej jestem Jacob.Tm lub też Jakub lubie sobie czasem programatykować :))
 
+** **
+
 # Mój profil na discordzie
 
 
