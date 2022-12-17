@@ -1,15 +1,16 @@
-### Hej jestem Jacob.Tm lub też Jakub lubie sobie czasem programatykować :))
+### Hey im Jacob.Tm or Jakub and i like to do some programming sometimes :))
+~~but im still really bad at it...~~
 
 ** **
 
-# Mój profil na discordzie
+# My discord profile
 
 
 <div>
   <a href="https://discord.com/users/302872992097107991"><img src="https://profiles.fratik.pl/302872992097107991"></a>
 </div>
 
-# Moje statystyki
+# My stats
 [![wakatime](https://wakatime.com/badge/user/955373ce-2e28-43e5-8e9c-f5e95e8eb80e.svg)](https://wakatime.com/@955373ce-2e28-43e5-8e9c-f5e95e8eb80e)
 <div>
   <a href="https://github.com/Jacob1Tm"><img src="https://github-readme-stats.vercel.app/api?username=Jacob1Tm&show_icons=true&theme=dark"></a><br>
