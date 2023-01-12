@@ -7,7 +7,7 @@
 
 
 <div>
-  <a href="https://discord.com/users/302872992097107991"><img src="https://profiles.fratik.pl/302872992097107991"></a>
+  <a href="https://discord.com/users/302872992097107991"><img src="https://lanyard.cnrad.dev/api/302872992097107991"></a>
 </div>
 
 # My stats
